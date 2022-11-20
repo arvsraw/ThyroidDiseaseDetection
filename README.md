@@ -1,6 +1,9 @@
 # Thyroid Disease Detection using Machine Learning
 ## This is a project for Future Ready Talent's Microsoft Virtual Internship Program
-Thyroid disease is a very common problem in India, more than one crore people are suffering with the disease every year. Thyroid disorder can speed up or slow down the metabolism of the body.
+The thyroid gland is a small organ that’s located in the front of the neck, wrapped around the windpipe (trachea). It’s shaped like a butterfly, smaller in the middle with two wide wings that extend around the side of your throat. The thyroid is a gland. You have glands throughout your body, where they create and release substances that help your body do a specific thing. Your thyroid makes hormones that help control many vital functions of your body.
+
+When your thyroid doesn’t work properly, it can impact your entire body. If your body makes too much thyroid hormone, you can develop a condition called hyperthyroidism. If your body makes too little thyroid hormone, it’s called hypothyroidism. Both conditions are serious and need to be treated by your healthcare provider.
+Thyroid disease is a very common problem in India, more than one crore people are suffering with the disease every year.
 
 ## Objective
 * The main objective of this project is to predict if a person is having thyroid disease or not (no thyroid) with the help of Machine Learning.
