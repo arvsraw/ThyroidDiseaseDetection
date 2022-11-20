@@ -2,7 +2,6 @@ from flask import Flask, flash, redirect, render_template, request, app, url_for
 import numpy as np
 import pandas as pd
 import pickle
-import os
 app = Flask(__name__)
 app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
 
